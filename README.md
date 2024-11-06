@@ -1,1 +1,1 @@
-# Synergistic-Fusion
+# AI-Image-Generator
